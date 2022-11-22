@@ -58,3 +58,6 @@ body{
     font-family: 'Comic Neue', cursive;
     padding: 5px;
 }
+h1 .nocontent{
+    display: none;
+}

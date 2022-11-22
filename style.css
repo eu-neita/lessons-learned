@@ -1,6 +1,12 @@
 body{
     background: rgb(253, 251, 251):
 }
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
 /* nav bar */
 #cabecalho{
     padding-top: 12px;

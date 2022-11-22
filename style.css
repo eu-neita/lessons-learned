@@ -48,12 +48,12 @@ body{
     border: 3px solid rgb(23, 146, 2);
     box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
 }
-#footer{
+#rodape{
     text-align: center;
     color: #fff;
-    font-size: 18px;
+    font-size: 16px;
     background-color: #343a40;
     border: 1px solid black;
     font-family: 'Comic Neue', cursive;
-    padding: 10px;
+    padding: 5px;
 }

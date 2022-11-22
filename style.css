@@ -41,3 +41,12 @@ body{
 h1.outline, .outline {
     display: none;
   }
+
+  #minha_foto{
+    width: 188px;
+    display: block;
+    margin: 12px auto 64px;
+    border-radius: 25px;
+    border: 3px solid rgb(23, 146, 2);
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+}

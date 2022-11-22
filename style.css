@@ -18,6 +18,7 @@ body{
 }
 #cabecalho h1{
     color: #fff;
+    font-family: 'Comic Neue', cursive;
     text-align: center;
 }
 #cabecalho ul li{

@@ -1,0 +1,38 @@
+body{
+    background: rgb(253, 251, 251):
+}
+/* nav bar */
+#cabecalho{
+    padding-top: 12px;
+    background-color:  rgb(23, 146, 2);
+    list-style: none;
+    top: 0;
+    padding-bottom: 12px;
+}
+#cabecalho h1{
+    color: #fff;
+    text-align: center;
+}
+#cabecalho ul li{
+    display: inline;
+}
+#cabecalho ul li a {
+    color: #fff;
+    padding: 10px;
+    font-family: 'Comic Neue', cursive;
+    text-decoration: none;
+    display:inline-block;
+    font-weight: bold;
+    transition: background .2s;
+}
+#cabecalho ul a:hover{
+    background-color: #38b427;
+}
+.left-button{
+    /* background-color: rgb(0, 0, 0); */
+    float: right;
+    margin: 0 0 0 16px;
+}
+h1.outline, .outline {
+    display: none;
+  }

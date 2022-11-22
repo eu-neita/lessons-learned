@@ -51,7 +51,6 @@ body{
 }
 .links {
     list-style: none;
-    /* border: 2px solid black; */
     text-align: center;
 }
 .links a {
@@ -76,6 +75,7 @@ body{
 }
 #licoes_aprendidas{
     margin: 0 30px;
+    padding-right: 20px;
     font-size: 22px;
     display: inline-block;
 }

@@ -3,12 +3,13 @@ body{
 }
 *{
     margin: 0 auto;
-    padding: 0;
-    box-sizing: border-box;
     scroll-behavior: smooth;
 }
 /* nav bar */
 #cabecalho{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
     padding-top: 12px;
     background-color:  rgb(23, 146, 2);
     list-style: none;
@@ -38,10 +39,6 @@ body{
     float: right;
     margin: 0 0 0 16px;
 }
-h1.outline, .outline {
-    display: none;
-  }
-
   #minha_foto{
     width: 188px;
     display: block;

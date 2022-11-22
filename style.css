@@ -72,20 +72,12 @@ body{
     color: #0e76a8;
     transition: background .2s;
 }
-#rodape{
-    text-align: center;
-    color: #fff;
-    font-size: 16px;
-    background-color: #343a40;
-    border: 1px solid black;
-    font-family: 'Comic Neue', cursive;
-    padding: 5px;
-}
 .nocontent{
     display: none;
 }
 #licoes{
     text-align: center;
+    margin-top: 64px;
     margin-bottom: 32px;
 }
 #licoes_aprendidas{
@@ -94,7 +86,34 @@ body{
     display: inline-block;
 }
 #licoes_a_aprender{
-    gap: 16px;
     font-size: 22px;
     display: inline-block;
+}
+#textos{
+    margin: 200px 0 ;
+    display : flex;
+    flex-direction : row;
+}
+#estilo_texto{
+    text-align: center;
+    color: #495057;
+    font-size: 22px;
+    width: 40%;
+    border: 2px solid black;
+}
+#estilo_texto_side{
+    text-align: center;
+    color: #495057;
+    font-size: 22px;
+    width: 40%;
+    border: 2px solid black;
+}
+#rodape{
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    background-color: #343a40;
+    border: 1px solid black;
+    font-family: 'Comic Neue', cursive;
+    padding: 5px;
 }
